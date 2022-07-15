@@ -1,6 +1,6 @@
 #### Hola, Soy Ivon👋
 
-Realmente disfruto aprender cualquier lenguaje de programación. Antes estaba en contacto con algún lenguaje html, css, javacript,bootstrap,jquery. Además, realizo algunos análisis de datos en python,power bi, sql, sap erp.
+Realmente disfruto aprender cualquier lenguaje de programación. Antes estaba en contacto con algún lenguaje html, css, javascript,bootstrap,jquery. Además, realizo algunos análisis de datos en python,power bi, sql, sap erp.
 
 - Nací en la ciudad de Coronel, Chile❤️
 - Me encantan los animales, en especial los perros
